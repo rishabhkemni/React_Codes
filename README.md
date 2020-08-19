@@ -27,4 +27,4 @@ Contains basic to advanced React codes and programs
 
 4. To run project got project directory/src and run **npm start App.js**
 
-Similarly replace contents of App.js,App.css,index.html,index.js and index.css according to your convenience.
+Similarly replace contents of **App.js,App.css,index.html,index.js and index.css** according to your convenience.
